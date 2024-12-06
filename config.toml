@@ -19,10 +19,10 @@ archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.y
 
 [Music]
 enabled = true
-apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube-music/"
 patches-source = "anddea/revanced-patches"
 integrations-source = "anddea/revanced-integrations"
 rv-brand = "anddea ReVanced"
+apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube-music/
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.apps.youtube.music
 
 [GooglePhotos]
